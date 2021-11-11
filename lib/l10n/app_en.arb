@@ -1,0 +1,18 @@
+{
+  "language":"English",
+  "@language": {
+    "description": "The Current Language"
+  },
+  "how_are_u": "How Are You?",
+  "@how_are_u": {
+    "description": "ask about the user"
+  },
+  "app_bar_title": "Home Screen",
+  "@app_bar_title": {
+    "description": ""
+  },
+  "name": "Name",
+  "@name": {
+    "description": "name hint"
+  }
+}
